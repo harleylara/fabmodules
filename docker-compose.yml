@@ -6,7 +6,7 @@ services:
     image: fabmodules
     container_name: fabmodules
     ports:
-      - 12345:9000 
+      - 12345:9090
 
 networks:
     default:
